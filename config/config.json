@@ -1,0 +1,24 @@
+{
+    "development": {
+      "username": "root",
+      "password": "179856",
+      "database": "sorveteria_delivery",
+      "host": "localhost",
+      "dialect": "mysql"
+    },
+    "test": {
+      "username": "root",
+      "password": "179856",
+      "database": "sorveteria_delivery_test",
+      "host": "localhost",
+      "dialect": "mysql"
+    },
+    "production": {
+      "username": "root",
+      "password": "179856",
+      "database": "sorveteria_delivery_production",
+      "host": "localhost",
+      "dialect": "mysql"
+    }
+  }
+  
